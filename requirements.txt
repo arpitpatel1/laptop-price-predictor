@@ -1,5 +1,5 @@
 streamlit
 scikit-learn
-pandas.core.indexes.numeric
+pandas<2
 xgboost
 
