@@ -1,7 +1,7 @@
 import streamlit as st
 import pickle
 import numpy as np
-import pandas
+import pandas.core.indexes.numeric
 
 # import the model
 pipe = pickle.load(open('pipe.pkl','rb'))
